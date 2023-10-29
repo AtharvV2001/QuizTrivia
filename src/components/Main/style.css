@@ -1,0 +1,12 @@
+.startContain {
+  background-color: #282d49 !important;
+
+  h1, p {
+    color: #fff !important;
+  }
+}
+
+.playButton {
+  background-color: #004680 !important;
+  color: #fff !important;
+}

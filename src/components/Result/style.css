@@ -1,0 +1,12 @@
+.bg-color.active {
+  background-color: #22263c !important;
+  color: #fff !important;
+}
+
+.bg-color {
+  color: #fff !important;
+}
+
+.row-hover:hover td {
+  color: #fff !important;
+}

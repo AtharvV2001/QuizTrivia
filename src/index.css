@@ -1,0 +1,19 @@
+@import url(../node_modules/semantic-ui-css/semantic.min.css);
+
+body {
+  background-color: #181b33;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.bg-color-light {
+  background-color: #22234c !important;
+  color: #fff !important;
+}
+
+.bg-color {
+  background-color: #282d49 !important;
+  border: none !important;
+}
