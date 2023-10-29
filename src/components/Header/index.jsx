@@ -32,7 +32,7 @@ const Header = () => {
   return (
     <Menu stackable inverted className="menu-bar">
       <Menu.Item header>
-        <h1 className="header">Quiz Trivia</h1>
+        <h1 className="header">Quizze Whizze</h1>
       </Menu.Item>
       {promptEvent && !isAppInstalled && (
         <Menu.Item position="right">
